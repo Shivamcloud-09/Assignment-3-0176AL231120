@@ -1,0 +1,30 @@
+Which of the following is a DBMS?
+a) MySQL
+b) Oracle
+c) PostgreSQL
+d) All of the above
+d
+Which language is used to define database structure?
+a) DDL
+b) DML
+c) DCL
+d) TCL
+a
+Which key uniquely identifies each record in a table?
+a) Foreign key
+b) Primary key
+c) Candidate key
+d) Composite key
+b
+Which SQL command is used to remove all rows from a table?
+a) DROP
+b) DELETE
+c) TRUNCATE
+d) REMOVE
+c
+Which command is used to fetch data from a database?
+a) FETCH
+b) SELECT
+c) GET
+d) RETRIEVE
+b

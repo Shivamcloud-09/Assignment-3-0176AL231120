@@ -1,0 +1,30 @@
+What is the output of print(2**3)?
+a) 6
+b) 8
+c) 9
+d) 5
+b
+Which of the following is mutable?
+a) Tuple
+b) String
+c) List
+d) Int
+c
+Which keyword is used to define a function in Python?
+a) def
+b) func
+c) define
+d) function
+a
+What is the output of print(type([]))?
+a) <class 'tuple'>
+b) <class 'list'>
+c) <class 'set'>
+d) <class 'dict'>
+b
+Which module in Python supports regular expressions?
+a) regex
+b) pyregex
+c) re
+d) pattern
+c

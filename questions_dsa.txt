@@ -1,0 +1,30 @@
+What is the time complexity of binary search?
+a) O(n)
+b) O(log n)
+c) O(n log n)
+d) O(1)
+b
+Which data structure follows LIFO order?
+a) Queue
+b) Stack
+c) Tree
+d) Graph
+b
+Which data structure follows FIFO order?
+a) Stack
+b) Queue
+c) Linked List
+d) Tree
+b
+Which sorting algorithm is considered fastest on average?
+a) Bubble Sort
+b) Quick Sort
+c) Insertion Sort
+d) Selection Sort
+b
+Which data structure is used in recursion?
+a) Queue
+b) Stack
+c) Linked List
+d) Graph
+b
